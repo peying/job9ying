@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#BD2734" />
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="220dp"
+        android:background="#001AFF" />
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:background="#A600FF" />
+
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="220dp"
+        android:background="#032BF4" />
+
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="220dp"
+        android:background="#0337F4"
+        android:layout_gravity="center"
+        android:layout_marginBottom="220dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#AEAAAA"ou
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="felim edi p"
+        android:textSize="25dp" />
